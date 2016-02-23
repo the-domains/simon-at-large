@@ -1,0 +1,28 @@
+name: simon-at-large
+favicon: null
+layout_spectrum: 0.7037122650071979
+typography_spectrum: 0.02357574296183884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.97907067486085
+  lightness: 0.46023635542951524
+  saturation: 0.1580334068275988
+  rhythmicContrast: 0.6281551332212985
+purpose: []
